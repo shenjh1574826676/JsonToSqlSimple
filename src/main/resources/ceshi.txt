@@ -1,0 +1,38 @@
+[
+    {
+        "name": '清真寺',
+        "type": '伊斯兰教',
+        "location": '古塘街100号',
+        "longitude": 121.092862,
+        "latitude":  31.458669,
+        "charger": 'xxx',
+        "tel": 'xxxx'
+    },
+    {
+        "name": '基督教堂',
+        "type": '基督教',
+        "location": '郑和西路183号',
+        "longitude": 121.103223,
+        "latitude": 31.454252,
+        "charger": 'xxx',
+        "tel": 'xxxxxxx'
+    },
+    {
+        "name": '高真堂',
+        "type": '道教',
+        "location": '新港西路67号',
+        "longitude": 121.091204,
+        "latitude": 31.517699,
+        "charger": 'xxxxx',
+        "tel": 'xxxxx'
+    },
+    {
+        "name": '城隍庙',
+        "type": '道教',
+        "location": '胜泾村16组',
+        "longitude": 121.121516,
+        "latitude": 31.418733,
+        "charger": 'xxxxx',
+        "tel": 'xxxxx'
+    },
+]
